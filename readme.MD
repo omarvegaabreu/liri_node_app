@@ -104,4 +104,4 @@ APIs used:
     OMDB
 Git
 GitHub
-
+adding tex
