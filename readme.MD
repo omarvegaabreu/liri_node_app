@@ -54,7 +54,7 @@ node liri.js concert_this <name of artist or band>
 
 Output: The system will display a list of all events and locations where the artist or band will perform. It can result in multiple records. The system will also log all the results in the log.txt file. See screen-shot below:
 
-![Results](liri-node-app\images\concertThis)
+![Results](images/concertThis.PNG)
 
 **Example 2**: Run the `spotify_this_song` command
 
@@ -62,7 +62,7 @@ Output: The system will display a list of all events and locations where the art
 
 Output: The system will display a list of information associated with the song. It can result in multiple records. The system will also log all the results in the log.txt file. See screen-shot below:
 
-![Results](liri-node-app\images\spotifyThisSong.PNG)
+![Results](images/spotifyThisSong.PNG)
 
 **Example 3**: Run the `movie_this` command
 
@@ -70,7 +70,7 @@ Output: The system will display a list of information associated with the song. 
 
 Output: The system will display information associated with the movie. The system will also log all the results in the log.txt file. See screen-shot below:
 
-![Results](liri-node-app\images\movieThis.PNG)
+![Results](images/movieThis.PNG)
 
 **Example 4**: Run the do_what_it_says command
 
@@ -80,13 +80,13 @@ Output: The system will read the text in the random.txt file, and perform the co
 
 See screen-shot below:
 
-![Results](liri-node-app\images\doWhatIsSays.PNG)
+![Results](images/doWhatIsSays.PNG)
 
 **Example 5**: If a user runs a command with no parameter provided, they will get a default result in each case. 
 
 See screen-shot below:
 
-![Results](liri-node-app\images\default.PNG)
+![Results](images/default.PNG)
 
 # Bonus
 * In addition to logging the data to your terminal/bash window, all the result data is also saved to a .txt file called `log.txt`.
